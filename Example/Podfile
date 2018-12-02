@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JBLib_Example' do
+  pod 'JBLib', :path => '../'
+
+  target 'JBLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
