@@ -1,0 +1,6 @@
+framework module JBLib {
+  umbrella header "JBLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

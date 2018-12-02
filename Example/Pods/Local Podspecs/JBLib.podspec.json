@@ -1,0 +1,22 @@
+{
+  "name": "JBLib",
+  "version": "0.1.0",
+  "summary": "A short description of JBLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zoujinbiao/JBLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zoujinbiao": "zoujinbiao@guazi.com"
+  },
+  "source": {
+    "git": "https://github.com/zoujinbiao/JBLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JBLib/Classes/**/*"
+}
