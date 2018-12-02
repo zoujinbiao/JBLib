@@ -11,6 +11,8 @@
 @interface GZIMCenterButton : UIButton
 
 @property(nonatomic,copy)NSString *btnTitle;
+
+
 @property(nonatomic,assign)NSInteger titleSpace;
 
 @end
